@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.22823.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallSharp", "CallSharp\CallSharp.csproj", "{BB340F80-C096-4336-977D-8A4D323D7180}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallSharp.Tests", "CallSharp.Tests\CallSharp.Tests.csproj", "{9F03B7D9-3B3C-4376-A318-C44E9DEDEBE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB340F80-C096-4336-977D-8A4D323D7180}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB340F80-C096-4336-977D-8A4D323D7180}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB340F80-C096-4336-977D-8A4D323D7180}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB340F80-C096-4336-977D-8A4D323D7180}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F03B7D9-3B3C-4376-A318-C44E9DEDEBE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F03B7D9-3B3C-4376-A318-C44E9DEDEBE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F03B7D9-3B3C-4376-A318-C44E9DEDEBE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F03B7D9-3B3C-4376-A318-C44E9DEDEBE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
